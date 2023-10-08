@@ -3,3 +3,5 @@ This reposity aims at implementing WBP introduced in following paper: https://ww
 
 WBP enhances the quality of bandpower computation for defects with relative thickness more than 90 percent through giving more weight to those
 scan points placed fruther away than pizoelecteric. 
+
+The data used in the code can not be shared.

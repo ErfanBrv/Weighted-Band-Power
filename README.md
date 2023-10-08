@@ -9,3 +9,7 @@ The data used in the code can not be shared.
 
 The final result:
 
+<p align="center">
+  <img src="https://github.com/ErfanBrv/Weighted-Bandpower-WBP-Implementation/blob/main/A91e0c08u_19l9za4_loc.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
